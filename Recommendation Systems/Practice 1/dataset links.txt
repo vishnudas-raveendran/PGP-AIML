@@ -1,0 +1,3 @@
+https://static.turi.com/datasets/millionsong/10000.txt
+https://static.turi.com/datasets/millionsong/song_data.csv
+https://drive.google.com/drive/folders/1KGTAtCpYcmtspjTp57n2aAKGP2En2J6n
